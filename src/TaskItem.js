@@ -75,7 +75,7 @@ class TaskItem extends React.Component {
               <label className='mx-auto'>Enter Task</label>
               <input
                 type='text'
-                placeholder='Rahul task to do'
+                placeholder='Enter task to do'
                 value={this.state.currentItem.text}
                 name='taskItem'
                 className='margin-left:140px input1'
