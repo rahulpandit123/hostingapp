@@ -1,0 +1,23 @@
+.formelement {
+  display: block;
+  margin-top: 145px;
+  background-color: rgb(2, 32, 95);
+  color: rgb(255, 255, 255);
+  width: 400px;
+  margin-left: 356px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: large;
+}
+.input1 {
+  margin-left: 30px;
+}
+.hading1 {
+  color: rgb(51, 113, 170);
+  font-weight: bolder;
+}
+.App {
+  /* background-color: #3f3160; */
+  /* width: 400px; */
+  /* margin-left: 356px; */
+}
